@@ -1,0 +1,32 @@
+
+    #image{
+
+      width: 70%;
+      border: 10px solid #D25380 ;
+      margin-top: 70px;
+      margin-bottom: 20px;
+      ;
+    }
+    html{
+      background-color: #FFFAF4;
+      text-align-last: center;
+      font-size: 20px;
+    }
+    #quote{
+      border: 10px solid #E08E6D;
+      color: #FFFAF4;
+      background-color: #D25380;
+      margin: 0px;
+      padding: 20px;
+      font-size: 2rem;
+    }
+    .ar-font{
+      font-family: 'Noto Nastaliq Urdu', serif;
+    }
+    h2{
+      background-color: #E08E6D;
+      color: #FFFAF4;
+      border: 10px solid #F6C391;
+      padding: 20px;
+      font-size: 3rem;  
+    }
